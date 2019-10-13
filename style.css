@@ -54,7 +54,7 @@
   }
 
   .jumbotron{
-    background-image:url('images/back3.png') !important;
+    background-image:url('images/hero2.jpeg') !important;
     background-size:cover;
     background-repeat:no-repeat;
     background-position: center center;
@@ -66,6 +66,27 @@
   h2{
     color:#f4511e;
     font-weight:bolder;
+  }
+
+  .footer-nav{
+    margin: 0 auto;
+    color:#fff;
+    font-size:9px;
+  }
+
+  .thumbnail a{
+   
+      color: #f4511e !important;
+      text-decoration: none;
+      background-color: transparent;
+ 
+  }
+
+  @media only screen and ( max-width:1366px){
+        .skills-image{
+          width:350px;
+          height:350px;
+      }
   }
   @media only screen and (max-width: 1024px) {
     .shaunett{
