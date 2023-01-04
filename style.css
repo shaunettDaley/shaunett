@@ -12,6 +12,10 @@ img.portfolio-images {
     overflow: hidden;
 }
 
+.thumbnail{
+    box-shadow:2px 3px 2px #000;
+}
+
   h1 {
     font-size: 3.5rem;
     text-shadow: 4px 4px 4px #000;
